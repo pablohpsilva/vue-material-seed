@@ -15,9 +15,14 @@
   },
   "dependencies": {
     "ajv-keywords": "^2.1.0",
+    "axios": "^0.16.2",
+    "muse-ui": "^2.0.3",
     "uglifyjs-webpack-plugin": "^0.4.6",
     "vue": "^2.3.3",
-    "vue-router": "^2.3.1"
+    "vue-axios": "^2.0.2",
+    "vue-router": "^2.3.1",
+    "vuex": "^2.3.1",
+    "vuex-router-sync": "next"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
